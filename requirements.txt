@@ -4,3 +4,4 @@ pandas==1.0.5
 numpy==1.19.1
 streamlit==0.79.0
 scikit_learn==0.24.2
+openpyxl==1.0.1
